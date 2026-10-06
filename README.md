@@ -15,7 +15,11 @@
 
 </div>
 
-## `>_ BOOT.SEQUENCE`
+## `>_ WHOAMI`
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=BF5AF2&center=true&vCenter=true&width=750&height=45&lines=Full-stack+systems+that+scale+cleanly;Computer+vision+pipelines+powered+by+OpenCV;React+interfaces+with+Flask+engines+underneath;Healthcare+platforms+%7C+Real-time+analytics+%7C+Automation;Currently+shipping+EverHeal+%2A_%2A" alt="Typing animation" />
+</div>
 
 ```js
 const dhruv = {
