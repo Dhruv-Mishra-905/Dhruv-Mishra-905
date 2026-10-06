@@ -7,10 +7,6 @@
   I enjoy turning complex problems into elegant, user-friendly applications — from healthcare platforms to real-time crypto trackers.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhruv-Mishra-905&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 # 💫 About Me
