@@ -1,89 +1,135 @@
-<h1 align="center">Hi 👋, I'm Dhruv Mishra</h1>
-<h3 align="center">B.Tech CSE (AI &amp; ML) Student &nbsp;|&nbsp; Web Developer &nbsp;|&nbsp; Python Developer</h3>
-<p align="center">📍 Ranchi, India</p>
+<div align="center">
 
-<p align="center">
-  I build and deploy full-stack applications integrating REST APIs and OpenCV-based computer vision features.<br>
-  I enjoy turning complex problems into elegant, user-friendly applications — from healthcare platforms to real-time crypto trackers.
-</p>
+<img src="./assets/hero.svg" alt="Dhruv Mishra - AI/ML, Full-Stack, Computer Vision" width="100%" />
 
----
+<a href="https://dhruv-port-folio.netlify.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=BF5AF2&center=true&vCenter=true&width=760&height=48&lines=Full-stack+systems+that+scale+cleanly;Computer+vision+pipelines+powered+by+OpenCV;React+interfaces+with+Flask+engines+underneath;Healthcare+platforms+%7C+Real-time+analytics+%7C+Automation;Currently+shipping+EverHeal+%2A_%2A" alt="Typing animation" />
+</a>
 
-# 💫 About Me
+<br/>
 
-- 🔭 I’m currently working on **EverHeal** & AI/ML projects
-- 👯 I’m looking to collaborate on **Web, AI/ML & Open Source** projects
-- 🤝 I’m looking for help with **Backend, System Design & ML**
-- 🌱 I’m currently learning **React, Node.js, DSA & Machine Learning**
-- 💬 Ask me about **Python, C, Java, React & Flask**
-- 🏆 Competitive & team leader — **SIH 2025** & **EDC Competition (Round 2)**
-- ⚡ Fun fact: I code, build projects, and drink way too much caffeine ☕
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d0221?style=flat-square&logo=netlify&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://dhruv-port-folio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0221?style=flat-square&logo=linkedin&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://linkedin.com/in/dhruv-mishra-713945359)
+[![Email](https://img.shields.io/badge/EMAIL-0d0221?style=flat-square&logo=gmail&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](mailto:dhruvmh50@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-0d0221?style=flat-square&logo=leetcode&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://leetcode.com/u/dhruv___mishra)
+[![CodeChef](https://img.shields.io/badge/CODECHEF-0d0221?style=flat-square&logo=codechef&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://codechef.com/users/dhruv_905)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0d0221?style=flat-square&logo=instagram&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://instagram.com/_dhruv___mishra)
 
----
+</div>
 
-## 🎯 What I Do
+<br/>
 
-| 🌐 Full-Stack Web Development | 🤖 AI & Computer Vision | 🏆 Competitive & Team Leader |
-| :--- | :--- | :--- |
-| React, Flask, Node.js & REST APIs | OpenCV, ML techniques & face recognition | SIH 2025 & EDC Competition — Round 2 |
+## `>_ BOOT.SEQUENCE`
 
----
+```js
+const dhruv = {
+  identity : "B.Tech CSE (AI & ML) | Web Developer | Python Developer",
+  base     : "Ranchi, India",
+  building : ["EverHeal", "AI/ML systems"],
+  learning : ["React", "Node.js", "DSA", "Machine Learning"],
+  seeking  : ["Backend architecture", "System Design", "ML mentorship"],
+  open_to  : ["Web", "AI/ML", "Open Source collaboration"],
+  ask_me   : ["Python", "C", "Java", "React", "Flask"],
+  fuel     : "caffeine, compilers, curiosity *_*"
+};
+```
 
-## 🌐 Socials
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-mishra-713945359)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvmh50@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dhruv___mishra)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DhruvMishra905)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dhruvmh)
+## `// CORE.MODULES`
 
----
+<table align="center">
+<tr>
+<td width="33%" valign="top">
 
-# 💻 Tech Stack
+**[ 01 ] FULL-STACK SYSTEMS**
 
-### 🧠 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+React, Flask, Node.js and REST APIs wired into fast, deployable products.
 
-### 🌐 Frontend &amp; Backend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![AngularJS](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37)
+</td>
+<td width="33%" valign="top">
 
-### 🤖 AI / ML &amp; Data
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white&labelColor=101010) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
+**[ 02 ] VISION + INTELLIGENCE**
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
+OpenCV pipelines, face recognition and applied machine learning.
 
-### ☁️ Cloud, DevOps &amp; Tools
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+</td>
+<td width="33%" valign="top">
 
-### 🎨 Design
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
+**[ 03 ] LEADERSHIP + EXECUTION**
 
----
+Team lead at the EDC College Competition. Round 2 finalist at SIH 2025.
 
-# 📊 GitHub Stats
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=Dhruv-Mishra-905&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dhruv-Mishra-905&theme=dark&hide_border=false&layout=compact" alt="Top languages" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dhruv-Mishra-905&theme=dark&hide_border=false" alt="GitHub streak" />
-</p>
+## `// DEPLOYED.BUILDS`
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dhruv-Mishra-905&limit=5&theme=dark&combine_all_yearly_contributions=true)
+| MODULE | STACK | WHAT IT DOES | LINKS |
+| :--- | :--- | :--- | :--- |
+| **EverHeal** | HTML / CSS / JavaScript | Healthcare consultation platform with a redesigned patient and doctor experience. Led the team to Round 2 of the EDC College Competition. | [source](https://github.com/Dhruv-Mishra-905/EverHeal) / [live](https://everheal.netlify.app) |
+| **Crypto Tracker** | React / REST APIs / Bootstrap | Real-time cryptocurrency prices, trends and market data in a clean dashboard. | [source](https://github.com/Dhruv-Mishra-905/react-project-hub) / [live](https://simplecryptotracker.netlify.app) |
+| **SVMS** | Python / Flask / SQLite / ReportLab | Society visitor management with check-in flows, admin dashboards and PDF records. Built during the CCL internship. | [source](https://github.com/Dhruv-Mishra-905/Main-Projects) / [live](https://society-visitor-management-system.onrender.com) |
+| **Face Recognition Attendance** | Python / OpenCV | Automated attendance through live face recognition. Advanced to Round 2 of Smart India Hackathon 2025. | [source](https://github.com/Dhruv-Mishra-905/Python-Projects) |
+| **Color Detection** | Python / OpenCV | Detects and classifies colors through pixel and color-range analysis. | [source](https://github.com/Dhruv-Mishra-905/Python-Projects) |
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
----
+## `// FIELD.EXPERIENCE`
 
-## 💰 You can help me by Donating
+```text
+[ MAY 2026 - JUN 2026 ]  Software Development Intern  ::  Smart Network Analytics Center, Usha Martin
+                         > Real-time network analytics dashboard components and data visualization
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/_dhruv___mishra)
+[ JUN 2026 - JUL 2026 ]  Software Development Intern  ::  Central Coalfields Limited
+                         > Frontend and backend of the Society Visitor Management System
+```
 
-<p align="center">
-  <i>Thanks for stopping by — let's build something great together! 🚀</i>
-</p>
+<br/>
+
+## `// TECH.ARSENAL`
+
+<div align="center">
+
+**LANGUAGES**<br/>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,kotlin,dart,php,rust&theme=dark" alt="Languages" />
+
+**WEB + FRAMEWORKS**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap,nodejs,express,flask,django,fastapi,flutter&theme=dark" alt="Web and frameworks" />
+
+**AI / ML + DATA**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,pandas,mongodb,mysql,sqlite&theme=dark" alt="AI ML and data" />
+
+**CLOUD + TOOLING**<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,apache,git,github,gitlab,postman,jest,jira,figma,androidstudio,vscode&theme=dark" alt="Cloud and tooling" />
+
+</div>
+
+<br/>
+
+## `// LIVE.TELEMETRY`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.shion.dev/api?username=Dhruv-Mishra-905&show_icons=true&hide_border=false&border_radius=14&bg_color=0d0221&border_color=7c3aed&title_color=bf5af2&text_color=e9d5ff&icon_color=ff2bd6&ring_color=bf5af2&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dhruv-Mishra-905&layout=compact&hide_border=false&border_radius=14&bg_color=0d0221&border_color=7c3aed&title_color=bf5af2&text_color=e9d5ff" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Dhruv-Mishra-905&background=0D0221&border=7C3AED&stroke=7C3AED&ring=BF5AF2&fire=FF2BD6&currStreakNum=FFFFFF&sideNums=E879F9&currStreakLabel=BF5AF2&sideLabels=C9B8FF&dates=8B7FB8&border_radius=14" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-Mishra-905&bg_color=0d0221&color=bf5af2&line=ff2bd6&point=ffffff&area=true&area_color=7c3aed&hide_border=true&title_color=bf5af2&radius=14" alt="Contribution graph" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Sponsor](https://img.shields.io/badge/FUEL_THE_BUILD-0d0221?style=flat-square&logo=buy-me-a-coffee&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://buymeacoffee.com/_dhruv___mishra)
+<img src="https://komarev.com/ghpvc/?username=Dhruv-Mishra-905&label=VISITS&color=7c3aed&style=flat-square&labelColor=0d0221" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:bf5af2,100:ff2bd6&height=120&section=footer&text=let%27s%20build%20something%20unreal&fontColor=ffffff&fontSize=20&fontAlignY=70" width="100%" alt="Footer" />
+
+</div>
