@@ -17,55 +17,55 @@
       </feMerge>
     </filter>
 
-    <!-- Clip paths for typing each line with fill=freeze so it stays typed -->
+    <!-- Clip paths for typing each line at relaxed readable pace with fill=freeze -->
     <clipPath id="cl1">
       <rect x="82" y="58" width="0" height="26">
-        <animate attributeName="width" from="0" to="220" begin="0.3s" dur="0.4s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="220" begin="0.4s" dur="0.9s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="cl2">
       <rect x="82" y="85" width="0" height="26">
-        <animate attributeName="width" from="0" to="770" begin="0.8s" dur="1.3s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="770" begin="1.6s" dur="2.8s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="cl3">
       <rect x="82" y="112" width="0" height="26">
-        <animate attributeName="width" from="0" to="370" begin="2.2s" dur="0.6s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="370" begin="4.7s" dur="1.3s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="cl4">
       <rect x="82" y="139" width="0" height="26">
-        <animate attributeName="width" from="0" to="520" begin="2.9s" dur="0.8s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="520" begin="6.3s" dur="1.8s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="cl5">
       <rect x="82" y="166" width="0" height="26">
-        <animate attributeName="width" from="0" to="680" begin="3.8s" dur="1.1s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="680" begin="8.4s" dur="2.3s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="cl6">
       <rect x="82" y="193" width="0" height="26">
-        <animate attributeName="width" from="0" to="800" begin="5.0s" dur="1.3s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="800" begin="11.0s" dur="2.8s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="cl7">
       <rect x="82" y="220" width="0" height="26">
-        <animate attributeName="width" from="0" to="670" begin="6.4s" dur="1.1s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="670" begin="14.1s" dur="2.3s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="cl8">
       <rect x="82" y="247" width="0" height="26">
-        <animate attributeName="width" from="0" to="580" begin="7.6s" dur="0.9s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="580" begin="16.7s" dur="2.0s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="cl9">
       <rect x="82" y="274" width="0" height="26">
-        <animate attributeName="width" from="0" to="580" begin="8.6s" dur="0.9s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="580" begin="19.0s" dur="1.9s" fill="freeze"/>
       </rect>
     </clipPath>
     <clipPath id="cl10">
       <rect x="82" y="301" width="0" height="26">
-        <animate attributeName="width" from="0" to="120" begin="9.6s" dur="0.3s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="120" begin="21.2s" dur="0.5s" fill="freeze"/>
       </rect>
     </clipPath>
   </defs>
@@ -155,53 +155,53 @@
   <!-- Animated Typing Cursors -->
   <!-- Cursor Line 1 -->
   <rect y="61" width="8" height="18" rx="2" fill="#ff2bd6" filter="url(#glow)">
-    <animate attributeName="x" from="82" to="220" begin="0.3s" dur="0.4s" fill="freeze"/>
-    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.98;1" begin="0.3s" dur="0.45s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="220" begin="0.4s" dur="0.9s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.98;1" begin="0.4s" dur="0.95s" fill="freeze"/>
   </rect>
   <!-- Cursor Line 2 -->
   <rect y="88" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="0.8s" dur="1.35s" fill="freeze"/>
-    <animate attributeName="x" from="82" to="770" begin="0.8s" dur="1.3s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.98;1" begin="1.6s" dur="2.85s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="770" begin="1.6s" dur="2.8s" fill="freeze"/>
   </rect>
   <!-- Cursor Line 3 -->
   <rect y="115" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="2.2s" dur="0.65s" fill="freeze"/>
-    <animate attributeName="x" from="82" to="370" begin="2.2s" dur="0.6s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.98;1" begin="4.7s" dur="1.35s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="370" begin="4.7s" dur="1.3s" fill="freeze"/>
   </rect>
   <!-- Cursor Line 4 -->
   <rect y="142" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="2.9s" dur="0.85s" fill="freeze"/>
-    <animate attributeName="x" from="82" to="520" begin="2.9s" dur="0.8s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.98;1" begin="6.3s" dur="1.85s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="520" begin="6.3s" dur="1.8s" fill="freeze"/>
   </rect>
   <!-- Cursor Line 5 -->
   <rect y="169" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="3.8s" dur="1.15s" fill="freeze"/>
-    <animate attributeName="x" from="82" to="680" begin="3.8s" dur="1.1s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.98;1" begin="8.4s" dur="2.35s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="680" begin="8.4s" dur="2.3s" fill="freeze"/>
   </rect>
   <!-- Cursor Line 6 -->
   <rect y="196" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="5.0s" dur="1.35s" fill="freeze"/>
-    <animate attributeName="x" from="82" to="800" begin="5.0s" dur="1.3s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.98;1" begin="11.0s" dur="2.85s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="800" begin="11.0s" dur="2.8s" fill="freeze"/>
   </rect>
   <!-- Cursor Line 7 -->
   <rect y="223" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="6.4s" dur="1.15s" fill="freeze"/>
-    <animate attributeName="x" from="82" to="670" begin="6.4s" dur="1.1s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.98;1" begin="14.1s" dur="2.35s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="670" begin="14.1s" dur="2.3s" fill="freeze"/>
   </rect>
   <!-- Cursor Line 8 -->
   <rect y="250" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="7.6s" dur="0.95s" fill="freeze"/>
-    <animate attributeName="x" from="82" to="580" begin="7.6s" dur="0.9s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.98;1" begin="16.7s" dur="2.05s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="580" begin="16.7s" dur="2.0s" fill="freeze"/>
   </rect>
   <!-- Cursor Line 9 -->
   <rect y="277" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
-    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="8.6s" dur="0.95s" fill="freeze"/>
-    <animate attributeName="x" from="82" to="580" begin="8.6s" dur="0.9s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.98;1" begin="19.0s" dur="1.95s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="580" begin="19.0s" dur="1.9s" fill="freeze"/>
   </rect>
   <!-- Cursor Line 10 (Final cursor that blinks then freezes solid at the end) -->
   <rect y="304" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
-    <animate attributeName="opacity" values="0;1" keyTimes="0;1" begin="9.6s" dur="0.05s" fill="freeze"/>
-    <animate attributeName="x" from="82" to="108" begin="9.6s" dur="0.3s" fill="freeze"/>
-    <animate attributeName="opacity" values="1;0;1;0;1" dur="1.6s" begin="9.9s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" keyTimes="0;1" begin="21.2s" dur="0.05s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="108" begin="21.2s" dur="0.5s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1;0;1" dur="2s" begin="21.8s" fill="freeze"/>
   </rect>
 </svg>

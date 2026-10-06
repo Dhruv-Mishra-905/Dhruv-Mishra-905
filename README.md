@@ -29,23 +29,29 @@
 
 ## `// DEPLOYED.BUILDS`
 
-| MODULE | STACK | WHAT IT DOES | LINKS |
+| MODULE | TECH STACK | HIGHLIGHTS | LINKS |
 | :--- | :--- | :--- | :--- |
-| **EverHeal** | HTML / CSS / JavaScript | Healthcare consultation platform with a redesigned patient and doctor experience. Led the team to Round 2 of the EDC College Competition. | [source](https://github.com/Dhruv-Mishra-905/EverHeal) / [live](https://everheal.netlify.app) |
-| **Crypto Tracker** | React / REST APIs / Bootstrap | Real-time cryptocurrency prices, trends and market data in a clean dashboard. | [source](https://github.com/Dhruv-Mishra-905/react-project-hub) / [live](https://simplecryptotracker.netlify.app) |
-| **SVMS** | Python / Flask / SQLite / ReportLab | Society visitor management with check-in flows, admin dashboards and PDF records. Built during the CCL internship. | [source](https://github.com/Dhruv-Mishra-905/Main-Projects) / [live](https://society-visitor-management-system.onrender.com) |
-| **Face Recognition Attendance** | Python / OpenCV | Automated attendance through live face recognition. Advanced to Round 2 of Smart India Hackathon 2025. | [source](https://github.com/Dhruv-Mishra-905/Python-Projects) |
-| **Color Detection** | Python / OpenCV | Detects and classifies colors through pixel and color-range analysis. | [source](https://github.com/Dhruv-Mishra-905/Python-Projects) |
+| **🩺 EverHeal** | `HTML5` `CSS3` `JavaScript` | Healthcare consultation platform with redesigned UI/UX for patients & doctors. Led development team to **Round 2 of EDC College Competition**. | [![Code](https://img.shields.io/badge/Code-0d0221?style=flat-square&logo=github&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://github.com/Dhruv-Mishra-905/EverHeal) [![Live](https://img.shields.io/badge/Live-0d0221?style=flat-square&logo=netlify&logoColor=ff2bd6&labelColor=0d0221&color=bf5af2)](https://everheal.netlify.app) |
+| **📊 Crypto Tracker** | `React` `REST APIs` `Bootstrap` | Real-time cryptocurrency prices, market trends and tracking dashboard powered by live REST APIs. | [![Code](https://img.shields.io/badge/Code-0d0221?style=flat-square&logo=github&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://github.com/Dhruv-Mishra-905/react-project-hub) [![Live](https://img.shields.io/badge/Live-0d0221?style=flat-square&logo=render&logoColor=ff2bd6&labelColor=0d0221&color=bf5af2)](https://simplecryptotracker.netlify.app) |
+| **🏢 SVMS** | `Python` `Flask` `SQLite` `ReportLab` | Society visitor management system with guest check-in flows, admin dashboards and automated PDF records. Built during CCL internship. | [![Code](https://img.shields.io/badge/Code-0d0221?style=flat-square&logo=github&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://github.com/Dhruv-Mishra-905/Main-Projects) [![Live](https://img.shields.io/badge/Live-0d0221?style=flat-square&logo=render&logoColor=ff2bd6&labelColor=0d0221&color=bf5af2)](https://society-visitor-management-system.onrender.com) |
+| **👤 Face Recognition** | `Python` `OpenCV` | Automated attendance system using live face recognition pipelines. Advanced to **Round 2 of Smart India Hackathon (SIH) 2025**. | [![Code](https://img.shields.io/badge/Code-0d0221?style=flat-square&logo=github&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://github.com/Dhruv-Mishra-905/Python-Projects) |
+| **🎨 Color Detection** | `Python` `OpenCV` | Real-time color detection and classification through pixel mapping and HSV color-range analysis. | [![Code](https://img.shields.io/badge/Code-0d0221?style=flat-square&logo=github&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://github.com/Dhruv-Mishra-905/Python-Projects) |
 
 ## `// FIELD.EXPERIENCE`
 
-```text
-[ MAY 2026 - JUN 2026 ]  Software Development Intern  ::  Smart Network Analytics Center, Usha Martin
-                         > Real-time network analytics dashboard components and data visualization
+> ### 🌐 Software Development Intern · **Smart Network Analytics Center (SNAC)**
+> **Usha Martin, Ranchi** &nbsp;•&nbsp; `MAY 2026 — JUN 2026`  
+> - Engineered real-time network analytics dashboard components and data visualization, giving clearer insight into device performance and connectivity trends.
+> - Analyzed device and traffic data alongside technical teams to strengthen monitoring workflows.  
+> `React.js` `Data Visualization` `REST APIs` `Network Analytics`
 
-[ JUN 2026 - JUL 2026 ]  Software Development Intern  ::  Central Coalfields Limited
-                         > Frontend and backend of the Society Visitor Management System
-```
+<br/>
+
+> ### 🏢 Software Development Intern · **Central Coalfields Limited (CCL)**
+> **Central Coalfields Limited, Ranchi** &nbsp;•&nbsp; `JUN 2026 — JUL 2026`  
+> - Delivered frontend and backend components of the **Society Visitor Management System (SVMS)**, streamlining check-in and record-keeping workflows.
+> - Implemented secure form handling, administrative dashboards, and automated PDF record export with ReportLab.  
+> `Python` `Flask` `SQLite` `ReportLab` `REST APIs`
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Dhruv-Mishra-905/Dhruv-Mishra-905/main/assets/divider.svg" width="100%" alt="" />
@@ -56,18 +62,25 @@
 <div align="center">
 
 **LANGUAGES**<br/>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,kotlin,dart,php,rust&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=c,py,java,js,kotlin&theme=dark" alt="Languages: C, Python, Java, JavaScript, Kotlin" />
+
+<br/><br/>
 
 **WEB + FRAMEWORKS**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap,nodejs,express,flask,django,fastapi,flutter&theme=dark" alt="Web and frameworks" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,nodejs,flask&theme=dark" alt="Web and Frameworks: HTML, CSS, React, Vite, Bootstrap, Node.js, Flask" />
 
-**AI / ML + DATA**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,mongodb,mysql,sqlite&theme=dark" alt="AI ML and data" /><br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<br/><br/>
 
-**CLOUD + TOOLING**<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,apache,git,github,gitlab,postman,jest,jira,figma,androidstudio,vscode&theme=dark" alt="Cloud and tooling" />
+**AI / COMPUTER VISION + DATABASES**<br/>
+<img src="https://skillicons.dev/icons?i=opencv,mysql,sqlite&theme=dark" alt="AI and Databases: OpenCV, MySQL, SQLite" /><br/>
+<img src="https://img.shields.io/badge/REST_APIs-0d0221?style=for-the-badge&logo=fastapi&logoColor=bf5af2&labelColor=0d0221&color=7c3aed" alt="REST APIs" />
+
+<br/><br/>
+
+**TOOLS + PLATFORMS**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,jupyter,apache&theme=dark" alt="Tools: Git, GitHub, VS Code, Android Studio, Jupyter Notebook, Apache" /><br/>
+<img src="https://img.shields.io/badge/Dev--C%2B%2B-0d0221?style=for-the-badge&logo=cplusplus&logoColor=bf5af2&labelColor=0d0221&color=7c3aed" alt="Dev-C++" />
+<img src="https://img.shields.io/badge/Cursor_AI-0d0221?style=for-the-badge&logoColor=bf5af2&labelColor=0d0221&color=7c3aed" alt="Cursor" />
 
 </div>
 
@@ -80,8 +93,10 @@
 
 <img src="https://raw.githubusercontent.com/Dhruv-Mishra-905/Dhruv-Mishra-905/main/assets/footer.svg" width="100%" alt="Let's build something unreal" />
 
-<br/>
+<br/><br/>
 
-[![Sponsor](https://img.shields.io/badge/FUEL_THE_BUILD-0d0221?style=for-the-badge&logo=buy-me-a-coffee&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://buymeacoffee.com/_dhruv___mishra)
+<a href="https://buymeacoffee.com/_dhruv___mishra">
+  <img src="https://raw.githubusercontent.com/Dhruv-Mishra-905/Dhruv-Mishra-905/main/assets/coffee.svg" alt="Buy Me A Coffee" />
+</a>
 
 </div>
