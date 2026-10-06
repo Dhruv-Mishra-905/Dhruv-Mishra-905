@@ -18,21 +18,8 @@
 ## `>_ WHOAMI`
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=BF5AF2&center=true&vCenter=true&width=750&height=45&lines=Full-stack+systems+that+scale+cleanly;Computer+vision+pipelines+powered+by+OpenCV;React+interfaces+with+Flask+engines+underneath;Healthcare+platforms+%7C+Real-time+analytics+%7C+Automation;Currently+shipping+EverHeal+%2A_%2A" alt="Typing animation" />
+<img src="https://raw.githubusercontent.com/Dhruv-Mishra-905/Dhruv-Mishra-905/main/assets/whoami.svg" width="100%" alt="const dhruv = { identity, base, building, learning, seeking, open_to, ask_me, fuel }" />
 </div>
-
-```js
-const dhruv = {
-  identity : "B.Tech CSE (AI & ML) | Web Developer | Python Developer",
-  base     : "Ranchi, India",
-  building : ["EverHeal", "AI/ML systems"],
-  learning : ["React", "Node.js", "DSA", "Machine Learning"],
-  seeking  : ["Backend architecture", "System Design", "ML mentorship"],
-  open_to  : ["Web", "AI/ML", "Open Source collaboration"],
-  ask_me   : ["Python", "C", "Java", "React", "Flask"],
-  fuel     : "caffeine, compilers, curiosity *_*"
-};
-```
 
 ## `// CORE.MODULES`
 

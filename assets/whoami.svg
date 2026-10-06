@@ -1,0 +1,207 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 375" width="1200" height="375" role="img" aria-label="Developer Profile Script">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#bf5af2"/>
+      <stop offset="100%" stop-color="#ff2bd6"/>
+    </linearGradient>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0e0324"/>
+      <stop offset="100%" stop-color="#18053a"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Clip paths for typing each line with fill=freeze so it stays typed -->
+    <clipPath id="cl1">
+      <rect x="82" y="58" width="0" height="26">
+        <animate attributeName="width" from="0" to="220" begin="0.3s" dur="0.4s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cl2">
+      <rect x="82" y="85" width="0" height="26">
+        <animate attributeName="width" from="0" to="770" begin="0.8s" dur="1.3s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cl3">
+      <rect x="82" y="112" width="0" height="26">
+        <animate attributeName="width" from="0" to="370" begin="2.2s" dur="0.6s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cl4">
+      <rect x="82" y="139" width="0" height="26">
+        <animate attributeName="width" from="0" to="520" begin="2.9s" dur="0.8s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cl5">
+      <rect x="82" y="166" width="0" height="26">
+        <animate attributeName="width" from="0" to="680" begin="3.8s" dur="1.1s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cl6">
+      <rect x="82" y="193" width="0" height="26">
+        <animate attributeName="width" from="0" to="800" begin="5.0s" dur="1.3s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cl7">
+      <rect x="82" y="220" width="0" height="26">
+        <animate attributeName="width" from="0" to="670" begin="6.4s" dur="1.1s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cl8">
+      <rect x="82" y="247" width="0" height="26">
+        <animate attributeName="width" from="0" to="580" begin="7.6s" dur="0.9s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cl9">
+      <rect x="82" y="274" width="0" height="26">
+        <animate attributeName="width" from="0" to="580" begin="8.6s" dur="0.9s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cl10">
+      <rect x="82" y="301" width="0" height="26">
+        <animate attributeName="width" from="0" to="120" begin="9.6s" dur="0.3s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <style>
+    .code-text {
+      font-family: 'Consolas', 'Fira Code', 'Monaco', 'Courier New', monospace;
+      font-size: 15.5px;
+      letter-spacing: 0.3px;
+    }
+    .gutter-num {
+      font-family: 'Consolas', 'Fira Code', 'Monaco', 'Courier New', monospace;
+      font-size: 13px;
+      fill: #7c3aed;
+      opacity: 0.65;
+    }
+  </style>
+
+  <!-- Card background -->
+  <rect x="1" y="1" width="1198" height="373" rx="16" fill="url(#cardbg)"/>
+  <rect x="1" y="1" width="1198" height="373" rx="16" fill="none" stroke="url(#g)" stroke-width="2" stroke-dasharray="14 8">
+    <animate attributeName="stroke-dashoffset" values="0;-44" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Terminal Window Top Bar -->
+  <circle cx="28" cy="23" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="23" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="23" r="6" fill="#27c93f"/>
+  <text x="600" y="28" text-anchor="middle" font-family="'Consolas', 'Fira Code', monospace" font-size="13" font-weight="600" fill="#c9b8ff" letter-spacing="1">dhruv.profile.js — node</text>
+  <line x1="1" y1="45" x2="1199" y2="45" stroke="#7c3aed" stroke-opacity="0.28" stroke-width="1"/>
+
+  <!-- Line Numbers Gutter -->
+  <line x1="62" y1="46" x2="62" y2="373" stroke="#7c3aed" stroke-opacity="0.2" stroke-width="1"/>
+  <text x="36" y="76" text-anchor="middle" class="gutter-num">01</text>
+  <text x="36" y="103" text-anchor="middle" class="gutter-num">02</text>
+  <text x="36" y="130" text-anchor="middle" class="gutter-num">03</text>
+  <text x="36" y="157" text-anchor="middle" class="gutter-num">04</text>
+  <text x="36" y="184" text-anchor="middle" class="gutter-num">05</text>
+  <text x="36" y="211" text-anchor="middle" class="gutter-num">06</text>
+  <text x="36" y="238" text-anchor="middle" class="gutter-num">07</text>
+  <text x="36" y="265" text-anchor="middle" class="gutter-num">08</text>
+  <text x="36" y="292" text-anchor="middle" class="gutter-num">09</text>
+  <text x="36" y="319" text-anchor="middle" class="gutter-num">10</text>
+
+  <!-- Code Content with syntax highlighting, clipped to type in sequence and freeze -->
+  <!-- Line 1 -->
+  <g clip-path="url(#cl1)">
+    <text x="82" y="76" class="code-text" xml:space="preserve"><tspan fill="#ff2bd6" font-weight="700">const</tspan> <tspan fill="#e9d5ff">dhruv</tspan> <tspan fill="#bf5af2">=</tspan> <tspan fill="#c9b8ff">{</tspan></text>
+  </g>
+  <!-- Line 2 -->
+  <g clip-path="url(#cl2)">
+    <text x="82" y="103" class="code-text" xml:space="preserve">  <tspan fill="#38bdf8">identity</tspan> <tspan fill="#bf5af2">:</tspan> <tspan fill="#a7f3d0">"B.Tech CSE (AI &amp; ML) | Web Developer | Python Developer"</tspan><tspan fill="#c9b8ff">,</tspan></text>
+  </g>
+  <!-- Line 3 -->
+  <g clip-path="url(#cl3)">
+    <text x="82" y="130" class="code-text" xml:space="preserve">  <tspan fill="#38bdf8">base    </tspan> <tspan fill="#bf5af2">:</tspan> <tspan fill="#a7f3d0">"Ranchi, India"</tspan><tspan fill="#c9b8ff">,</tspan></text>
+  </g>
+  <!-- Line 4 -->
+  <g clip-path="url(#cl4)">
+    <text x="82" y="157" class="code-text" xml:space="preserve">  <tspan fill="#38bdf8">building</tspan> <tspan fill="#bf5af2">:</tspan> <tspan fill="#c9b8ff">[</tspan><tspan fill="#a7f3d0">"EverHeal"</tspan><tspan fill="#c9b8ff">, </tspan><tspan fill="#a7f3d0">"AI/ML systems"</tspan><tspan fill="#c9b8ff">],</tspan></text>
+  </g>
+  <!-- Line 5 -->
+  <g clip-path="url(#cl5)">
+    <text x="82" y="184" class="code-text" xml:space="preserve">  <tspan fill="#38bdf8">learning</tspan> <tspan fill="#bf5af2">:</tspan> <tspan fill="#c9b8ff">[</tspan><tspan fill="#a7f3d0">"React"</tspan><tspan fill="#c9b8ff">, </tspan><tspan fill="#a7f3d0">"Node.js"</tspan><tspan fill="#c9b8ff">, </tspan><tspan fill="#a7f3d0">"DSA"</tspan><tspan fill="#c9b8ff">, </tspan><tspan fill="#a7f3d0">"Machine Learning"</tspan><tspan fill="#c9b8ff">],</tspan></text>
+  </g>
+  <!-- Line 6 -->
+  <g clip-path="url(#cl6)">
+    <text x="82" y="211" class="code-text" xml:space="preserve">  <tspan fill="#38bdf8">seeking </tspan> <tspan fill="#bf5af2">:</tspan> <tspan fill="#c9b8ff">[</tspan><tspan fill="#a7f3d0">"Backend architecture"</tspan><tspan fill="#c9b8ff">, </tspan><tspan fill="#a7f3d0">"System Design"</tspan><tspan fill="#c9b8ff">, </tspan><tspan fill="#a7f3d0">"ML mentorship"</tspan><tspan fill="#c9b8ff">],</tspan></text>
+  </g>
+  <!-- Line 7 -->
+  <g clip-path="url(#cl7)">
+    <text x="82" y="238" class="code-text" xml:space="preserve">  <tspan fill="#38bdf8">open_to </tspan> <tspan fill="#bf5af2">:</tspan> <tspan fill="#c9b8ff">[</tspan><tspan fill="#a7f3d0">"Web"</tspan><tspan fill="#c9b8ff">, </tspan><tspan fill="#a7f3d0">"AI/ML"</tspan><tspan fill="#c9b8ff">, </tspan><tspan fill="#a7f3d0">"Open Source collaboration"</tspan><tspan fill="#c9b8ff">],</tspan></text>
+  </g>
+  <!-- Line 8 -->
+  <g clip-path="url(#cl8)">
+    <text x="82" y="265" class="code-text" xml:space="preserve">  <tspan fill="#38bdf8">ask_me  </tspan> <tspan fill="#bf5af2">:</tspan> <tspan fill="#c9b8ff">[</tspan><tspan fill="#a7f3d0">"Python"</tspan><tspan fill="#c9b8ff">, </tspan><tspan fill="#a7f3d0">"C"</tspan><tspan fill="#c9b8ff">, </tspan><tspan fill="#a7f3d0">"Java"</tspan><tspan fill="#c9b8ff">, </tspan><tspan fill="#a7f3d0">"React"</tspan><tspan fill="#c9b8ff">, </tspan><tspan fill="#a7f3d0">"Flask"</tspan><tspan fill="#c9b8ff">],</tspan></text>
+  </g>
+  <!-- Line 9 -->
+  <g clip-path="url(#cl9)">
+    <text x="82" y="292" class="code-text" xml:space="preserve">  <tspan fill="#38bdf8">fuel    </tspan> <tspan fill="#bf5af2">:</tspan> <tspan fill="#a7f3d0">"caffeine, compilers, curiosity *_*"</tspan></text>
+  </g>
+  <!-- Line 10 -->
+  <g clip-path="url(#cl10)">
+    <text x="82" y="319" class="code-text" xml:space="preserve"><tspan fill="#c9b8ff">};</tspan></text>
+  </g>
+
+  <!-- Animated Typing Cursors -->
+  <!-- Cursor Line 1 -->
+  <rect y="61" width="8" height="18" rx="2" fill="#ff2bd6" filter="url(#glow)">
+    <animate attributeName="x" from="82" to="220" begin="0.3s" dur="0.4s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.98;1" begin="0.3s" dur="0.45s" fill="freeze"/>
+  </rect>
+  <!-- Cursor Line 2 -->
+  <rect y="88" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="0.8s" dur="1.35s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="770" begin="0.8s" dur="1.3s" fill="freeze"/>
+  </rect>
+  <!-- Cursor Line 3 -->
+  <rect y="115" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="2.2s" dur="0.65s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="370" begin="2.2s" dur="0.6s" fill="freeze"/>
+  </rect>
+  <!-- Cursor Line 4 -->
+  <rect y="142" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="2.9s" dur="0.85s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="520" begin="2.9s" dur="0.8s" fill="freeze"/>
+  </rect>
+  <!-- Cursor Line 5 -->
+  <rect y="169" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="3.8s" dur="1.15s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="680" begin="3.8s" dur="1.1s" fill="freeze"/>
+  </rect>
+  <!-- Cursor Line 6 -->
+  <rect y="196" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="5.0s" dur="1.35s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="800" begin="5.0s" dur="1.3s" fill="freeze"/>
+  </rect>
+  <!-- Cursor Line 7 -->
+  <rect y="223" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="6.4s" dur="1.15s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="670" begin="6.4s" dur="1.1s" fill="freeze"/>
+  </rect>
+  <!-- Cursor Line 8 -->
+  <rect y="250" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="7.6s" dur="0.95s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="580" begin="7.6s" dur="0.9s" fill="freeze"/>
+  </rect>
+  <!-- Cursor Line 9 -->
+  <rect y="277" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" begin="8.6s" dur="0.95s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="580" begin="8.6s" dur="0.9s" fill="freeze"/>
+  </rect>
+  <!-- Cursor Line 10 (Final cursor that blinks then freezes solid at the end) -->
+  <rect y="304" width="8" height="18" rx="2" fill="#ff2bd6" opacity="0" filter="url(#glow)">
+    <animate attributeName="opacity" values="0;1" keyTimes="0;1" begin="9.6s" dur="0.05s" fill="freeze"/>
+    <animate attributeName="x" from="82" to="108" begin="9.6s" dur="0.3s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1;0;1" dur="1.6s" begin="9.9s" fill="freeze"/>
+  </rect>
+</svg>
