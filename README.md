@@ -1,23 +1,19 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Dhruv Mishra - AI/ML, Full-Stack, Computer Vision" width="100%" />
-
-<a href="https://dhruv-port-folio.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=BF5AF2&center=true&vCenter=true&width=760&height=48&lines=Full-stack+systems+that+scale+cleanly;Computer+vision+pipelines+powered+by+OpenCV;React+interfaces+with+Flask+engines+underneath;Healthcare+platforms+%7C+Real-time+analytics+%7C+Automation;Currently+shipping+EverHeal+%2A_%2A" alt="Typing animation" />
-</a>
+<img src="https://raw.githubusercontent.com/Dhruv-Mishra-905/Dhruv-Mishra-905/main/assets/hero.svg" alt="Dhruv Mishra - AI/ML, Full-Stack, Computer Vision" width="100%" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d0221?style=flat-square&logo=netlify&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://dhruv-port-folio.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0221?style=flat-square&logo=linkedin&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://linkedin.com/in/dhruv-mishra-713945359)
-[![Email](https://img.shields.io/badge/EMAIL-0d0221?style=flat-square&logo=gmail&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](mailto:dhruvmh50@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-0d0221?style=flat-square&logo=leetcode&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://leetcode.com/u/dhruv___mishra)
-[![CodeChef](https://img.shields.io/badge/CODECHEF-0d0221?style=flat-square&logo=codechef&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://codechef.com/users/dhruv_905)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-0d0221?style=flat-square&logo=instagram&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://instagram.com/_dhruv___mishra)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d0221?style=for-the-badge&logo=render&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://dhruv-port-folio.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0221?style=for-the-badge&logo=linkedin&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://linkedin.com/in/dhruv-mishra-713945359)
+[![Email](https://img.shields.io/badge/EMAIL-0d0221?style=for-the-badge&logo=gmail&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](mailto:dhruvmh50@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-0d0221?style=for-the-badge&logo=leetcode&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://leetcode.com/u/dhruv___mishra)
+[![CodeChef](https://img.shields.io/badge/CODECHEF-0d0221?style=for-the-badge&logo=codechef&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://codechef.com/users/dhruv_905)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0d0221?style=for-the-badge&logo=instagram&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://instagram.com/_dhruv___mishra)
+
+<img src="https://raw.githubusercontent.com/Dhruv-Mishra-905/Dhruv-Mishra-905/main/assets/divider.svg" width="100%" alt="" />
 
 </div>
-
-<br/>
 
 ## `>_ BOOT.SEQUENCE`
 
@@ -34,37 +30,11 @@ const dhruv = {
 };
 ```
 
-<br/>
-
 ## `// CORE.MODULES`
 
-<table align="center">
-<tr>
-<td width="33%" valign="top">
-
-**[ 01 ] FULL-STACK SYSTEMS**
-
-React, Flask, Node.js and REST APIs wired into fast, deployable products.
-
-</td>
-<td width="33%" valign="top">
-
-**[ 02 ] VISION + INTELLIGENCE**
-
-OpenCV pipelines, face recognition and applied machine learning.
-
-</td>
-<td width="33%" valign="top">
-
-**[ 03 ] LEADERSHIP + EXECUTION**
-
-Team lead at the EDC College Competition. Round 2 finalist at SIH 2025.
-
-</td>
-</tr>
-</table>
-
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Dhruv-Mishra-905/Dhruv-Mishra-905/main/assets/core.svg" width="100%" alt="Core modules: Full-stack systems, Vision and intelligence, Leadership and execution" />
+</div>
 
 ## `// DEPLOYED.BUILDS`
 
@@ -76,8 +46,6 @@ Team lead at the EDC College Competition. Round 2 finalist at SIH 2025.
 | **Face Recognition Attendance** | Python / OpenCV | Automated attendance through live face recognition. Advanced to Round 2 of Smart India Hackathon 2025. | [source](https://github.com/Dhruv-Mishra-905/Python-Projects) |
 | **Color Detection** | Python / OpenCV | Detects and classifies colors through pixel and color-range analysis. | [source](https://github.com/Dhruv-Mishra-905/Python-Projects) |
 
-<br/>
-
 ## `// FIELD.EXPERIENCE`
 
 ```text
@@ -88,7 +56,9 @@ Team lead at the EDC College Competition. Round 2 finalist at SIH 2025.
                          > Frontend and backend of the Society Visitor Management System
 ```
 
-<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Dhruv-Mishra-905/Dhruv-Mishra-905/main/assets/divider.svg" width="100%" alt="" />
+</div>
 
 ## `// TECH.ARSENAL`
 
@@ -101,33 +71,26 @@ Team lead at the EDC College Competition. Round 2 finalist at SIH 2025.
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap,nodejs,express,flask,django,fastapi,flutter&theme=dark" alt="Web and frameworks" />
 
 **AI / ML + DATA**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,pandas,mongodb,mysql,sqlite&theme=dark" alt="AI ML and data" />
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,mongodb,mysql,sqlite&theme=dark" alt="AI ML and data" /><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 
 **CLOUD + TOOLING**<br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,apache,git,github,gitlab,postman,jest,jira,figma,androidstudio,vscode&theme=dark" alt="Cloud and tooling" />
 
 </div>
 
-<br/>
-
-## `// LIVE.TELEMETRY`
+## `// SIGNAL.LOG`
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/Dhruv-Mishra-905/Dhruv-Mishra-905/main/assets/signal.svg" width="100%" alt="5 deployed builds, 2 internships, SIH 2025 Round 2, EDC College Competition Round 2" />
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=Dhruv-Mishra-905&show_icons=true&hide_border=false&border_radius=14&bg_color=0d0221&border_color=7c3aed&title_color=bf5af2&text_color=e9d5ff&icon_color=ff2bd6&ring_color=bf5af2&include_all_commits=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dhruv-Mishra-905&layout=compact&hide_border=false&border_radius=14&bg_color=0d0221&border_color=7c3aed&title_color=bf5af2&text_color=e9d5ff" alt="Top languages" />
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Dhruv-Mishra-905&background=0D0221&border=7C3AED&stroke=7C3AED&ring=BF5AF2&fire=FF2BD6&currStreakNum=FFFFFF&sideNums=E879F9&currStreakLabel=BF5AF2&sideLabels=C9B8FF&dates=8B7FB8&border_radius=14" alt="GitHub streak" />
-
-</div>
+<img src="https://raw.githubusercontent.com/Dhruv-Mishra-905/Dhruv-Mishra-905/main/assets/footer.svg" width="100%" alt="Let's build something unreal" />
 
 <br/>
 
-<div align="center">
-
-[![Sponsor](https://img.shields.io/badge/FUEL_THE_BUILD-0d0221?style=flat-square&logo=buy-me-a-coffee&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://buymeacoffee.com/_dhruv___mishra)
-<img src="https://komarev.com/ghpvc/?username=Dhruv-Mishra-905&label=VISITS&color=7c3aed&style=flat-square&labelColor=0d0221" alt="Profile views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:bf5af2,100:ff2bd6&height=120&section=footer&text=let%27s%20build%20something%20unreal&fontColor=ffffff&fontSize=20&fontAlignY=70" width="100%" alt="Footer" />
+[![Sponsor](https://img.shields.io/badge/FUEL_THE_BUILD-0d0221?style=for-the-badge&logo=buy-me-a-coffee&logoColor=bf5af2&labelColor=0d0221&color=7c3aed)](https://buymeacoffee.com/_dhruv___mishra)
 
 </div>
